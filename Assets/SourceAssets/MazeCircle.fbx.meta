@@ -14,6 +14,11 @@ ModelImporter:
     100012: Star
     100014: Sun
     100016: Triangle
+    100018: SquareMaze
+    100020: StarCollision
+    100022: StarCollisionPoint
+    100024: StarMaze
+    100026: TriangleMaze
     400000: //RootNode
     400002: Camera
     400004: Circle
@@ -23,30 +28,55 @@ ModelImporter:
     400012: Star
     400014: Sun
     400016: Triangle
+    400018: SquareMaze
+    400020: StarCollision
+    400022: StarCollisionPoint
+    400024: StarMaze
+    400026: TriangleMaze
     2300000: //RootNode
     2300002: Circle
     2300004: CircleMaze
     2300006: MazeGlassTop
     2300008: Star
     2300010: Triangle
+    2300012: SquareMaze
+    2300014: StarCollision
+    2300016: StarCollisionPoint
+    2300018: StarMaze
+    2300020: TriangleMaze
     3300000: //RootNode
     3300002: Circle
     3300004: CircleMaze
     3300006: MazeGlassTop
     3300008: Star
     3300010: Triangle
+    3300012: SquareMaze
+    3300014: StarCollision
+    3300016: StarCollisionPoint
+    3300018: StarMaze
+    3300020: TriangleMaze
     4300000: CircleMaze
     4300002: BezierCircle
     4300004: Circle
     4300006: Star
     4300008: Triangle
     4300010: MazeGlassTop
+    4300012: StarMaze
+    4300014: SquareMaze
+    4300016: TriangleMaze
+    4300018: StarCollisionPoint
+    4300020: StarCollision
     6400000: //RootNode
     6400002: Circle
     6400004: CircleMaze
     6400006: MazeGlassTop
     6400008: Star
     6400010: Triangle
+    6400012: SquareMaze
+    6400014: StarCollision
+    6400016: StarCollisionPoint
+    6400018: StarMaze
+    6400020: TriangleMaze
   materials:
     importMaterials: 1
     materialName: 0
